@@ -1,0 +1,10 @@
+@import url("https://fontawesome.com/");
+
+.first{
+    background-color: antiquewhite;
+}
+
+.card{
+    display: block;
+    position: absolute;
+}
